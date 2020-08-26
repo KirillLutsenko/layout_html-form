@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACE,kBACF,CAEA,UACE,kBACF,CAEA,8BACE,eACF","file":"style.d2b422b2.css","sourceRoot":"..\\src","sourcesContent":[".forms {\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.myBlocks {\r\n  margin-bottom: 10px;\r\n}\r\n\r\nfieldset .myBlocks:last-child {\r\n  margin-bottom: 0;\r\n}\r\n"]}
